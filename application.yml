@@ -1,9 +1,3 @@
-server:
-  port: 9501
-spring:
-  application:
-    name: springcloud-zuul-gateway
-
 eureka:
   client:   #客户端进行Eureka注册的配置
     service-url:
